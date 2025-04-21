@@ -13,9 +13,9 @@
     "php",
     "nginx",
     "db",
-    "redis",
+    //"redis",
     "opensearch",
-    "rabbitmq",
+    //"rabbitmq",
     "phpmyadmin"
   ],
   "forwardPorts": [
